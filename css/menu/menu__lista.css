@@ -1,0 +1,11 @@
+.menu__lista{
+    display: flex;
+    margin-left: 80%;
+}
+
+@media screen and (min-width:0) {
+    .menu__lista{
+        margin-left: 70%;
+    }
+    
+}
